@@ -22,7 +22,7 @@ This repository contains an implementation of the Wasserstein Generative Adversa
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-wgan-repo.git
+git clone https://github.com/Rishabh-S1899/WGAN.git
 cd your-wgan-repo
 ```
 

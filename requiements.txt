@@ -1,0 +1,21 @@
+# PyTorch with CUDA support
+torch==2.1.0+cu118
+torchvision==0.16.0+cu118
+torchaudio==2.1.0 
+
+# Deep Learning and Numerical Computing
+numpy==1.24.3
+scipy==1.10.1
+
+# Visualization and Logging
+tensorboard==2.15.1
+matplotlib==3.7.1
+
+# Progress Tracking
+tqdm==4.65.0
+
+# Optional: for potential data preprocessing
+Pillow==9.5.0
+
+# Development and Debugging
+ipython==8.12.0
